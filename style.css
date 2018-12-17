@@ -1,4 +1,6 @@
-
+  body{
+    background-color: aqua;
+  }
   h1{
     color:#996633;
     
@@ -34,9 +36,21 @@
     text-align: center;
 
   }
-  .Three{
+  .triangles{
     margin-left: 700px;
   }
   .wrapper{
     margin-left: 700px;
+  }
+  #scalene{
+    width: 0%;
+    border-bottom: 50px solid black;
+    border-left: 100px solid transparent;
+    border-right: 200px solid transparent;
+  }
+  #equil{
+    width: 0%;
+    border-bottom: 100px solid black;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
   }
