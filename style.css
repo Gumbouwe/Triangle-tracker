@@ -1,0 +1,16 @@
+
+  h1{
+    color:#993366;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bolder;
+    font-family: Helvetica;
+  }
+  h2{
+    color:  #0099cc;
+    text-align: center;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 30px
+  }
