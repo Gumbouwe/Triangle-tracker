@@ -10,7 +10,7 @@ if it finds that any two sides are equal it tells you it is Isosceles triangle.e
 * CSS
 * MarkDown
 * Javascript
-## link:https://gumbouwe.github.io/Triangle-tracker/
+## link: https://gumbouwe.github.io/Triangle-tracker/
 ## Conctact information
 Name:Tushabe Barbra
 Email:tushabestellah@gmail.com
