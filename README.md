@@ -12,14 +12,13 @@ if it finds that any two sides are equal it tells you it is Isosceles triangle.e
 * Javascript
 ## link: https://gumbouwe.github.io/Triangle-tracker/
 ## Conctact information
-Name:Tushabe Barbra
-Email:tushabestellah@gmail.com
-District:Gasabo
-Sector:Kimironko
-Cell:Kibagabaga
-My whatsapp Number and cell phone:+250788642234 
+* Name:Tushabe Barbra
+* Email:tushabestellah@gmail.com
+* Sector:Kimironko
+* Cell:Kibagabaga
+* My whatsapp Number and cell phone:+250788642234 
 ## Licence
-MIT license
-Copyright © 2018 Tushabe Barbra
-This project is designed by me under the surpervision of Moringa school
-NB:plagialism is highly prohibited.
+* MIT license
+* Copyright © 2018 Tushabe Barbra
+* This project is designed by me under the surpervision of Moringa school
+* NB:plagialism is highly prohibited.
